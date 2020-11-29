@@ -22,3 +22,7 @@ these are libraries that i used :
 edu.standford.nlp library
 
 opennlp library
+
+i optimized my code by writing just the 1 indes insted of 0 and 1 and it reduced my file size from 1500kb to 35 kb 
+
+take a look at the optimezed.csv files
